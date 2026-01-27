@@ -51,8 +51,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
     <a href="https://dribbble.com/zainulmuhajir">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dribbble/dribbble-original.svg"
-         width="48" height="48"/>
+    <img src="https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" height="48"/>
   </a>
 </p>
 
