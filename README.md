@@ -27,7 +27,7 @@
 
 <p align="center">
   🤖 Android Developer &nbsp; | &nbsp;
-  🧠 Machine Learning Engineer &nbsp; | &nbsp;
+  🧠 Machine Learning Engineer &nbsp;
 </p>
 
 <ul>
@@ -53,8 +53,9 @@
   <a href="https://instagram.com/zaaiii___">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://dribbble.com/zainulmuhajir">
-    <img src="https://skillicons.dev/icons?i=dribbble" />
+    <a href="https://dribbble.com/zainulmuhajir">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dribbble/dribbble-original.svg"
+         width="40" height="40" />
   </a>
 </p>
 
