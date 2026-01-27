@@ -28,11 +28,10 @@
 <p align="center">
   🤖 Android Developer &nbsp; | &nbsp;
   🧠 Machine Learning Engineer &nbsp; | &nbsp;
-  🚀 AI Agent Explorer
 </p>
 
 <ul>
-  <li>🔭 Currently working on <b>jokiinformatika2026 & Instagram projects</b></li>
+  <li>🔭 Currently working on <b>jokiinformatika2026 on Instagram</b></li>
   <li>🌱 Currently learning <b>AI Agent & Multi-Agent Systems</b></li>
   <li>👨‍💻 Portfolio: <a href="https://zainul.my">zainul.my</a></li>
   <li>💬 Ask me about <b>Android Development</b></li>
