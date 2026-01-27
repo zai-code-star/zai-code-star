@@ -75,7 +75,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-0A1A2F?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge&logo=openai"/>
 </p>
 
 <hr/>
