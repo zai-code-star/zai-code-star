@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  A passionate android developer and machine learning engineer from pemalang
+  A passionate android developer and machine learning engineer
 </h3>
 
 <p align="center">
