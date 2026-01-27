@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **jokiinformatika2026, instagram**
 
-- 🌱 I’m currently learning **deep learning**
+- 🌱 I’m currently learning **ai agent**
 
 - 👨‍💻 All of my projects are available at [zainul.my](zainul.my)
 
