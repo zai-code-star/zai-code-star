@@ -22,10 +22,6 @@
 <!-- ================= ABOUT ================= -->
 <h2 align="center">🧑‍💻 About Me</h2>
 
-<p align="center">
-  🤖 Android Developer &nbsp; | &nbsp;
-  🧠 Machine Learning Engineer &nbsp;
-</p>
 
 <ul>
   <li>🔭 Currently working on <b>jokiinformatika2026 on Instagram</b></li>
