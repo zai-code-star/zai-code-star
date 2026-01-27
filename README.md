@@ -50,8 +50,9 @@
   <a href="https://instagram.com/zaaiii___">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://dribbble.com/zainulmuhajir">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+    <a href="https://dribbble.com/zainulmuhajir">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dribbble/dribbble-original.svg"
+         width="48" height="48"/>
   </a>
 </p>
 
