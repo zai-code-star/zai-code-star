@@ -12,9 +12,6 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" />
-  </a>
   <a href="mailto:zainulmuhajir5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
