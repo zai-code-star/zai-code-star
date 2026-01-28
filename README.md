@@ -24,10 +24,10 @@
 
 
 <ul>
+  <li>🎓 Bachelor of Software Engineering (Sarjana Rekayasa Perangkat Lunak) from <b>Telkom University Purwokerto</b></li>
   <li>🔭 Currently working on <b>jokiinformatika2026 on Instagram</b></li>
   <li>🌱 Currently learning <b>Deep Learning & AI Agent</b></li>
   <li>👨‍💻 Portfolio: <a href="https://zainul.my">zainul.my</a></li>
-  <li>💬 Ask me about <b>Android Development</b></li>
   <li>📫 Email: <b>zainulmuhajir5@gmail.com</b></li>
 </ul>
 
