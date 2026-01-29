@@ -40,7 +40,7 @@
   <a href="https://dev.to/zainul_muhajir">
     <img src="https://skillicons.dev/icons?i=devto" />
   </a>
-  <a href="https://linkedin.com/in/zainul muhajir">
+  <a href="https://linkedin.com/in/zainul-muhajir-30a271224">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://instagram.com/zaaiii___">
